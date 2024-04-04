@@ -22,12 +22,12 @@ function Intro() {
     <div>
       <h1> Ioana Ciceu</h1>
       <p>
-        Enthusiastic and detail-oriented IT professional with a strong
-        foundation in both introductory IT concepts and front-end web
-        development. Possessing a solid understanding of programming languages
-        such as JavaScript, HTML, and CSS, coupled with practical experience in
-        developing responsive web interfaces and utilizing frameworks like
-        React.js.
+        Detail-oriented IT professional with expertise in front-end web
+        development, including JavaScript, HTML, and CSS. Possessing practical
+        experience in developing responsive web interfaces and some exposure to
+        React.js. Enthusiastic about learning new technologies and staying
+        updated with industry trends. Outside of work, I enjoy makeup artistry
+        and spending quality time with my family.
       </p>
     </div>
   );
